@@ -1,0 +1,40 @@
+div #app2{
+    margin-top: 40px;
+    text-align: center;
+    
+
+}
+table{
+    border-radius: 10px;
+}
+
+
+div #add2{
+    background: url('https://pearlsol.com/img/breadcrumb/hd%20blog%20pic.jpg');
+    background:cover;
+}
+div #edit2{
+
+    background: url('https://pearlsol.com/img/breadcrumb/hd%20blog%20pic.jpg');
+    background:cover;
+
+}
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#body{
+    margin-top: 5rem;
+}
+
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/037/471/374/small_2x/ai-generated-touristic-coach-bus-on-highway-road-intercity-regional-domestic-transportation-driving-urban-modern-tour-traveling-travel-journey-ride-moving-transport-concept-public-comfortable-photo.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+h1{
+    color: maroon;
+    background-color: transparent;
+}

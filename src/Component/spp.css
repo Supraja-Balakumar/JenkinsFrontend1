@@ -1,0 +1,40 @@
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+   
+  .App-link {
+    color: #61dafb;
+  }
+  nav {
+    width: 100%;
+  }
+
+
+  header{
+    background-image: url("https://images8.alphacoders.com/390/390280.jpg");
+      background-color:blue;
+      position: fixed;
+      display: flex;
+      align-items: center;
+      left: 0;
+      right: 0;
+      top: 0;
+      height: 50px;
+  }
+  header *{
+      display: inline;
+  }
+  header li{
+      margin: 20px;
+  }
+  header li a{
+      text-decoration: none;
+      color: white;
+  }
